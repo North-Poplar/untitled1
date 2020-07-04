@@ -1,0 +1,22 @@
+Metadata-Version: 2.0
+Name: od
+Version: 1.0
+Summary: Shorthand syntax for building OrderedDicts
+Home-page: https://github.com/epsy/od
+Author: Yann Kaiser
+Author-email: kaiser.yann@gmail.com
+License: MIT
+Keywords: OrderedDict,od,syntactic sugar
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+
+UNKNOWN
+
+
