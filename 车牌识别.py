@@ -196,7 +196,7 @@ def get_word_by_img(img):
 
 
 if __name__ == '__main__':
-    img = cv2.imread('img/2.jpg', cv2.IMREAD_COLOR)
+    img = cv2.imread('img/6.jpg', cv2.IMREAD_COLOR)
     # 预处理图像
     rect, afterimg = find_license(img)
 
